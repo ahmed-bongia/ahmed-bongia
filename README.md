@@ -1,4 +1,4 @@
-## <center> Hi, I'm Ahmed </center>
+<h1 align="center">Hi, I'm Ahmed</h1>
 
 ### Aspiring Software Developer & Data Analyst
 
