@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ahmed
 
-<!--
-**ahmed-bongia/ahmed-bongia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer & Data Analyst
 
-Here are some ideas to get you started:
+I'm an Information Technology student passionate about building web and mobile applications while exploring data analytics. Currently learning React Native, Next.js and modern software development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages:** TypeScript, JavaScript, Python, Java
+
+**Frontend & Mobile:** React, Next.js, React Native, Tailwind CSS
+
+**Tools:** Git, GitHub, VS Code
+
+## Interests
+
+Software Engineering • Mobile Development • Web Development • Data Analytics
